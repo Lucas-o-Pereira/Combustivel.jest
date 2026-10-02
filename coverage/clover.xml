@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1790905120622" clover="3.2.0">
+  <project timestamp="1790905120622" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1" elements="22" coveredelements="22" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="combustivel.js" path="C:\Users\luqui\Downloads\code\nodee\Combustivel\combustivel.js">
+      <metrics statements="10" coveredstatements="10" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="3" type="cond" truecount="5" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="12" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
